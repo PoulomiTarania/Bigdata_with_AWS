@@ -81,9 +81,13 @@ Overall, these visualizations provide a comprehensive and efficient way to under
 
 ### KEY TAKEAWAYS:
 After analyzing the data related to fire incidents in NYC over the past 20 years, we can draw the following takeaways -
+
 •	Fire incidents spiked in 2013 and 2018, with a sharp drop in 2021 due to the 'starfire_incident_id' column anomaly in the dataset.
+
 •	Brooklyn and Manhattan lead in incidents, with higher engine deployment suggesting potentially more serious incidents.
+
 •	The prevalence of EMS/Link Medical as a dominant alarm source underscores the substantial impact of medical emergencies in contributing to reported incidents.
+
 •	Brooklyn boasts the fastest response time, while Bronx and Queens lag.
 
 
