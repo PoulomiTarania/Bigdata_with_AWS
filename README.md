@@ -79,9 +79,12 @@ Lastly, a multi-dimensional bar chart provides an in-depth overview of fire inci
 ![image](https://github.com/PoulomiTarania/Bigdata_with_AWS/assets/60750648/8025fae5-4411-43f5-825a-51e720cdb07a)
 Overall, these visualizations provide a comprehensive and efficient way to understand fire incident types and their patterns in NYC.
 
-### CONCLUSION:
-After analyzing the data related to fire incidents in NYC over the past 20 years, we can draw several conclusions. Overall, this analysis provides valuable insights into the frequency and types of fire incidents in NYC over the past 20 years. The visualizations presented in this project offer a quick overview of the data and can be used by various stakeholders to make informed decisions about resource allocation, training, and strategy development.
-Thank you! 
+### KEY TAKEAWAYS:
+After analyzing the data related to fire incidents in NYC over the past 20 years, we can draw the following takeaways -
+•	Fire incidents spiked in 2013 and 2018, with a sharp drop in 2021 due to the 'starfire_incident_id' column anomaly in the dataset.
+•	Brooklyn and Manhattan lead in incidents, with higher engine deployment suggesting potentially more serious incidents.
+•	The prevalence of EMS/Link Medical as a dominant alarm source underscores the substantial impact of medical emergencies in contributing to reported incidents.
+•	Brooklyn boasts the fastest response time, while Bronx and Queens lag.
 
 
 
